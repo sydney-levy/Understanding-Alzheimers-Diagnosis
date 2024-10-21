@@ -1,6 +1,5 @@
 # Understanding Alzheimer's Diagnosis
-## Harvard University Fall 2023
-## Final Project for Introduction to Data Science (AC209A)
+## Harvard University Fall 2023 - Final Project for Introduction to Data Science (AC209A)
 
 This project aims to understand how different factors affect whether a person develops dementia. 
 Various ML models are utilized including decision trees, Random Forest, XGBoost, and a multi-layer perception. 
